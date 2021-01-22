@@ -1,3 +1,6 @@
+/*userId:-USER
+  password:-USER*/
+
 import java.util.*;
 import java.io.*;
 class banker
